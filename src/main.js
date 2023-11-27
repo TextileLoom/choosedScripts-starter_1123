@@ -6,7 +6,7 @@ import { ScrollTrigger } from 'gsap/ScrollTrigger'
 gsap.registerPlugin(ScrollTrigger)
 // import feature from './features/featureTest'
 
-console.log('Welcome to the new Webflow workflow')
+console.log('Welcome to the new Webflow workflow - Working From Netflify')
 
 // createBadge()
 // animateTitle()
