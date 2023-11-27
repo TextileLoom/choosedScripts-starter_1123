@@ -20,7 +20,7 @@ const animation = gsap.to('.ball', {
   stagger: 0.5,
   ease: 'ease',
   yoyo: true,
-  repeat: -1,
+  repeat: 2,
   paused: false,
   // scrollTrigger: {
   //   markers: true,
