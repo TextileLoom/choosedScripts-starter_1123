@@ -6,7 +6,7 @@ import { ScrollTrigger } from 'gsap/ScrollTrigger'
 gsap.registerPlugin(ScrollTrigger)
 // import feature from './features/featureTest'
 
-console.log('Welcome to the new Webflow workflow - Working From Netflify')
+console.log('Welcome to the new Webflow workflow - Working From local')
 
 // createBadge()
 // animateTitle()
@@ -20,7 +20,7 @@ const animation = gsap.to('.ball', {
   stagger: 0.5,
   ease: 'ease',
   yoyo: true,
-  repeat: 2,
+  repeat: -1,
   paused: false,
   // scrollTrigger: {
   //   markers: true,
